@@ -1,0 +1,47 @@
+h1{
+    color: blue;
+text-align: center;
+font-size: 200px;
+height: 300px;
+}
+body{
+    background-color:white;
+}
+hr{
+    border:0;
+    height:200px;
+    background:url(/bottel.png);
+}
+
+section{
+    background-color: turquoise;
+    border-radius: 50px;
+}
+p{
+    padding-left: 4%;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p2{
+    font-size: 80px;
+    margin-left: 500px;
+}
+
+section1{
+    background-color: snow;
+    font-size: 130px;
+    
+    margin-left: 40%;
+}
+footer{
+    border-style: solid;
+    height: 120px;
+} 
+#name{
+    background-color: springgreen;
+    height: 30px;
+}
+#email{
+    background-color: springgreen;
+    height: 30px;
+}
